@@ -1,0 +1,2 @@
+sales_dataset_columns=["OrderId","OrderDate","ShipDate","ShipMode","City","OrderYear","OrderMonth","OrderDay"]
+customer_dataset_columns = ["CustomerId","CustomerName","Segment","Country","City","OrderDate"]
